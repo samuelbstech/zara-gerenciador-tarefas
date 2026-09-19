@@ -1,4 +1,3 @@
-markdown
 # 📝 Zara - Assistente Pessoal de Tarefas
 
 O **Zara** é um gerenciador de tarefas dinâmico executado via terminal, projetado para ajudar no acompanhamento e priorização de afazeres diários com operações CRUD.
